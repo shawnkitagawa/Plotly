@@ -1,0 +1,29 @@
+
+/*
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+*/
+body
+{
+    background-color:lightblue;
+}
+
+ div .jumbotron
+{
+    background-image: url("../img/background.png");
+    color:white;
+    width:100%;
+}
+.navbar{
+    border:2px solid black;
+}
+.navbar .list
+{
+    display:inline-block;
+    margin-left:40px;
+    font-style: bold;
+    font-size: 20px;
+
+}
